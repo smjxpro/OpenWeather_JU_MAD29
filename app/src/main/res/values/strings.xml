@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+
+    <string name="weather_api_key">969a78bb8385493aa6f134706230709</string>
+    <string name="title_activity_main">Weather Forecast</string>
+
+</resources>
